@@ -1,0 +1,21 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px;
+  }
+
+h3 {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img-js {
+    width: 400px;
+    height: 300px;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+}
+
+.img-js:hover {
+  
+}
